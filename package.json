@@ -1,0 +1,22 @@
+{
+  "name": "gcp-storage-upload-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentech-hu/gcp-storage-upload-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pentech-hu/gcp-storage-upload-example/issues"
+  },
+  "homepage": "https://github.com/pentech-hu/gcp-storage-upload-example#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.5"
+  }
+}
