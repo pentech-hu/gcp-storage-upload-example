@@ -5,7 +5,7 @@ This is an example usage of Google Cloud Platform's Cloud Storage upload script,
 Original source of this script: https://github.com/googleapis/nodejs-storage/blob/master/samples/uploadFile.js
 
 
-## Prereqvisit
+## Prerequisite
 
 This example was written in Node.js. Using node version >=10 is required by the `@google-cloud/storage` dependency.
 
